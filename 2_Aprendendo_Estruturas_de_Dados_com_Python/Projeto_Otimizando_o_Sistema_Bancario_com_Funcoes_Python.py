@@ -1,3 +1,11 @@
+'''
+Projeto 2:
+Separar as funções existentes de saque, depósito
+e extrato em funções. Criar duas novas funções:
+cadastrar usuário (cliente) e cadastrar conta
+bancária.
+'''
+
 def criar_usuario():
     print('\n******* Criar Usuário *******')
     print('-----------------------------')
